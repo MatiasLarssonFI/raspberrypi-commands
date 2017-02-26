@@ -1,0 +1,7 @@
+{
+    "cmd_output" : {
+        "fifo" : {
+            "path" : "/tmp/app_command"
+        }
+    }
+}
